@@ -969,7 +969,7 @@ The final result is a reliable analytics platform that supports historical repor
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Gehad Hany Elsayed**.  
+Hi, I'm **Mahmoud Saad**.  
 I am passionate about **Data Engineering**, **ETL pipelines**, **Data Warehousing**, **Analytics Engineering**, and **Business Intelligence solutions**.
 
 I enjoy building complete data platforms that transform raw data into clean, trusted, and meaningful business insights.
