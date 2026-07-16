@@ -651,40 +651,40 @@ screenshot/
 <summary><strong>View All Screenshots</strong></summary>
 
 ### Architecture
-![Architecture](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Architcture_project.png)
+![Architecture](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Architcture_project.png)
 
 ### Dimensional Modeling
-![Dimensional Modeling](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Modeling.jpg)
+![Dimensional Modeling](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Modeling.jpg)
 
 ### Schema
-![Schema](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/schema.png)
+![Schema](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/schema.png)
 
 ### dbt Lineage Graph
-![dbt Lineage Graph](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/lineage_gragh_dbt.png)
+![dbt Lineage Graph](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/lineage_gragh_dbt.png)
 
 ### dbt Pipeline Run
-![dbt Pipeline Run](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/pipeline_run_dbt.jpeg)
+![dbt Pipeline Run](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/pipeline_run_dbt.jpeg)
 
 ### Airflow DAG Run Details
-![Airflow DAG Run Details](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/DAG_run_details.jpeg)
+![Airflow DAG Run Details](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/DAG_run_details.jpeg)
 
 ### Grafana Dashboard
-![Grafana Dashboard](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Grafana_Dashboard.png)
+![Grafana Dashboard](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Grafana_Dashboard.png)
 
 ### Grafana Alert Email
-![Grafana Alert Email](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Grafana_Alert_email.jpeg)
+![Grafana Alert Email](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Grafana_Alert_email.jpeg)
 
 ### Power BI Overview
-![Power BI Overview](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_overview.png)
+![Power BI Overview](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_overview.png)
 
 ### Power BI Operations
-![Power BI Operations](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_operations.png)
+![Power BI Operations](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_operations.png)
 
 ### Power BI Products
-![Power BI Products](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_products.png)
+![Power BI Products](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_products.png)
 
 ### Power BI Sales Details
-![Power BI Sales Details](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_sales_details.png)
+![Power BI Sales Details](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_sales_details.png)
 
 </details>
 
