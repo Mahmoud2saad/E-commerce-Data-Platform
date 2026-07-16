@@ -13,9 +13,9 @@ TRUNCATE TABLE staging.olist_geolocation;
 TRUNCATE TABLE staging.brazil_holidays_weekends;
 GO
 
-DECLARE @olist_data_folder NVARCHAR(4000) = N'D:\ITI_tasks\ecommerce-data-platform\data\raw\olist\data_set\';
-DECLARE @geolocation_file NVARCHAR(4000) = N'D:\ITI_tasks\ecommerce-data-platform\data\raw\geolocation\olist_geolocation_dataset.csv';
-DECLARE @calendar_file NVARCHAR(4000) = N'D:\ITI_tasks\ecommerce-data-platform\data\raw\calendar\brazil_holidays_weekends_2016_2018.csv';
+DECLARE @olist_data_folder NVARCHAR(4000) = N'D:NTI INTERNSHIP\Airflow\ecommerce-data-platform\data\raw\olist\data_set\';
+DECLARE @geolocation_file NVARCHAR(4000) = N'D:NTI INTERNSHIP\Airflow\ecommerce-data-platform\data\raw\geolocation\olist_geolocation_dataset.csv';
+DECLARE @calendar_file NVARCHAR(4000) = N'D:NTI INTERNSHIP\Airflow\ecommerce-data-platform\data\raw\calendar\brazil_holidays_weekends_2016_2018.csv';
 
 DECLARE @sql NVARCHAR(MAX);
 DECLARE @bulk_options NVARCHAR(MAX) = N'
