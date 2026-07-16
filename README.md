@@ -39,7 +39,7 @@ This project simulates a modern e-commerce data platform with multiple data engi
 
 ## 🏗️ End-to-End Architecture
 
-![Project Architecture](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Architcture_project.png)
+![Project Architecture](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Architcture_project.png)
 
 ```mermaid
 flowchart TD
@@ -325,7 +325,7 @@ The transformation design follows a layered analytics engineering approach:
 Sources → Staging → Silver → Intermediate → Gold → Validation
 ```
 
-![dbt Lineage Graph](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/lineage_gragh_dbt.png)
+![dbt Lineage Graph](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/lineage_gragh_dbt.png)
 
 ---
 
@@ -431,7 +431,7 @@ Its role is to prepare consistent unified data before building the gold dimensio
 
 The gold layer contains the final dimensional model used by Power BI.
 
-![Dimensional Modeling](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Modeling.jpg)
+![Dimensional Modeling](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Modeling.jpg)
 
 ### Gold Models
 
@@ -481,7 +481,7 @@ Validation models are used to check the quality and consistency of each transfor
 | `cdc_silver_validation_summary.sql` | Validates CDC silver models |
 | `gold_validation_summary.sql` | Validates gold tables, fact grain, keys, SCD2 logic, and KPIs |
 
-![dbt Pipeline Run](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/pipeline_run_dbt.jpeg)
+![dbt Pipeline Run](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/pipeline_run_dbt.jpeg)
 
 ---
 
@@ -521,7 +521,7 @@ flowchart TD
 | `profiles/profiles.yml` | dbt Snowflake profile used inside Airflow |
 | `dags/ecommerce_snowflake_dbt_pipeline.py` | Main pipeline DAG |
 
-![Airflow DAG Run Details](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/DAG_run_details.jpeg)
+![Airflow DAG Run Details](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/DAG_run_details.jpeg)
 
 ---
 
@@ -596,9 +596,9 @@ Stream&CDC/
 
 ### Grafana Monitoring Screenshots
 
-![Grafana Dashboard](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Grafana_Dashboard.png)
+![Grafana Dashboard](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Grafana_Dashboard.png)
 
-![Grafana Alert Email](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Grafana_Alert_email.jpeg)
+![Grafana Alert Email](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Grafana_Alert_email.jpeg)
 
 ---
 
@@ -623,19 +623,19 @@ The dashboard is built on top of the dbt gold dimensional model and focuses on e
 
 #### 📌 Overview
 
-![Power BI Dashboard Overview](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_overview.png)
+![Power BI Dashboard Overview](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_overview.png)
 
 #### 🚚 Operations
 
-![Power BI Dashboard Operations](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_operations.png)
+![Power BI Dashboard Operations](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_operations.png)
 
 #### 📦 Products
 
-![Power BI Dashboard Products](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_products.png)
+![Power BI Dashboard Products](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_products.png)
 
 #### 💰 Sales Details
 
-![Power BI Dashboard Sales Details](https://raw.githubusercontent.com/Gehad-Hany/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_sales_details.png)
+![Power BI Dashboard Sales Details](https://raw.githubusercontent.com/Mahmoud2saad/ecommerce-data-platform/main/screenshot/Powe_BI_Dashbord_sales_details.png)
 
 ---
 
